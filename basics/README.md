@@ -1,1 +1,1 @@
-Este proyecto se trata de shell basico.
+Este proyecto se trata de un shell basico.
