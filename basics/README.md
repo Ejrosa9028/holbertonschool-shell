@@ -1,1 +1,1 @@
-Este proyecto se trata de un shell basico.
+Este es mi primer basic shell
