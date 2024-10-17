@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --recursive 751 my_dir
+mkdir -m 751 /home/emanuel9709/holbertonschool-shell/permissions/my_dir
