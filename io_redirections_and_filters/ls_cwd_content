@@ -1,0 +1,14 @@
+total 40
+drwxr-xr-x 1 emanuel9709 emanuel9709 250 Oct 17 21:39 .
+drwxr-xr-x 1 emanuel9709 emanuel9709 162 Oct 17 13:21 ..
+-rwxr--r-- 1 emanuel9709 emanuel9709  32 Oct 17 13:31 0-hello_world
+-rwxr--r-- 1 emanuel9709 emanuel9709  28 Oct 17 14:23 1-confused_smiley
+-rwxr--r-- 1 emanuel9709 emanuel9709  28 Oct 17 14:53 2-hellofile
+-rwxr--r-- 1 emanuel9709 emanuel9709  39 Oct 17 15:01 3-twofiles
+-rwxr--r-- 1 emanuel9709 emanuel9709  33 Oct 17 15:10 4-lastlines
+-rwxr--r-- 1 emanuel9709 emanuel9709  33 Oct 17 20:20 5-firstlines
+-rwxr--r-- 1 emanuel9709 emanuel9709  40 Oct 17 21:05 6-third_line
+-rwxr--r-- 1 emanuel9709 emanuel9709  36 Oct 17 21:39 8-cwd_state
+-rw-r--r-- 1 emanuel9709 emanuel9709 133 Oct 17 21:06 iacta
+-rw-r--r-- 1 emanuel9709 emanuel9709   0 Oct 17 21:41 ls_cwd_content
+-rw-r--r-- 1 emanuel9709 emanuel9709  59 Oct 17 13:32 README.md
